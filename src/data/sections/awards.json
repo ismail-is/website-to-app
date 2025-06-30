@@ -1,0 +1,48 @@
+{
+    "title": "Architecture Awards",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua quis ipsum gravida.",
+    "button": {
+        "link": "/blog",
+        "label": "See All"
+    },
+    "image": {
+        "url": "/img/photo/2.jpg",
+        "alt": "image"
+    },
+    "items": [
+        {
+            "title": "Increased Brand Awareness",
+            "year": "1",
+            "image": "/img/photo/1.jpg"
+        },
+       
+        {
+            "title": "Enhanced Audience Engagement",
+            "year": "3",
+            "image": "/img/photo/5.jpg"
+        },
+        {
+            "title": "Growth in Followership",
+            "year": "5",
+            "image": "/img/photo/4.jpg"
+        }
+    ],
+    "items2": [
+        {
+            "title": "Higher Website Traffic",
+            "year": "2",
+            "image": "/img/photo/2.jpg"
+        },
+       
+        {
+            "title": "Measurable Results",
+            "year": "4",
+            "image": "/img/photo/5.jpg"
+        },
+        {
+            "title": "Improved Brand Reputation",
+            "year": "6",
+            "image": "/img/photo/4.jpg"
+        }
+    ]
+}

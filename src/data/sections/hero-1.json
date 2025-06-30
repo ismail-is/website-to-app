@@ -1,0 +1,35 @@
+{
+    "bg_image": "./img/allimg/all banners/home1.webp",
+    "title": "Bringing Bright <br/>Side to<span class=\"mil-accent\">Bright Side</span><br/>",
+    "subtitle": "The future",
+    "button": {
+        "link": "/Project",
+        "label": "View Projects"
+    },
+    "numbers": [
+        {
+            "value": "50",
+            "afterValue": "+",
+            "label": "Million Reach ",
+            "plus":"+"
+        },
+        {
+            "value": "400",
+            "afterValue": "k+",
+            "label": "Ad Campaigns",
+            "plus":"+"
+        },
+        {
+            "value": "50",
+            "afterValue": "+",
+            "label": "Brands ",
+            "plus":"+"
+        },
+        {
+            "value": "15",
+            "text":"K",
+            "beforeValue": "+",
+            "label": "Creatives "
+        }
+    ]
+}

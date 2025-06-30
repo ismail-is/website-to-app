@@ -1,0 +1,16 @@
+{
+    "button": {
+        "label": "Get In Touch ",
+        "link": "/contact"
+    },
+    "items": [
+        {
+            "label": "Email address",
+            "value": "info@brightmedia.tech"
+        },
+        {
+            "label": "Free Consultation",
+            "value": " +225 07979 79387"
+        }
+    ]
+}

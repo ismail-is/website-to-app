@@ -1,0 +1,23 @@
+{
+    "title": "The Art of Digital Mastery",
+    "subtitle": " How we rank ourselves ",
+    "description": "We bring expertise and precision to every aspect of your digital services.",
+    "items": [
+        {
+            "value": "95",
+            "label": "Branding & Creative Design"
+        },
+        {
+            "value": "85",
+            "label": "Social Media Marketing"
+        },
+        {
+            "value": "95",
+            "label": "Web Development"
+        },
+        {
+            "value": "70",
+            "label": "Paid Advertising "
+        }
+    ]
+}

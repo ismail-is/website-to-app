@@ -1,0 +1,17 @@
+{
+    "image": {
+        "url": "./img/allimg/all banners/home 2.webp",
+        "alt": "img"
+    },
+    "number": {
+        "value": "4",
+        "label": "<span class=\"mil-marker\">countries  </span>of<br/> operational<br/> presence"
+    },
+    "title": "Building a Strong Brand & Digital Foundation",
+    "subtitle": "Our expertise ",
+    "description": "It involves crafting a unique identity, engaging storytelling, and consistent online presence to connect with audiences and drive sustainable growth.",
+    "button": {
+        "link": "https://www.youtube.com/watch?v=wjdBaZj7AyU",
+        "label": "Watch video"
+    }
+}
