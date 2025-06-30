@@ -1,5 +1,6 @@
 {
   "appId": "com.example.app",
   "appName": "brightmedia app",
-  "webDir": "public"
+  "webDir": "out",
+  "bundledWebRuntime": false
 }
